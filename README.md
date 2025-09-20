@@ -1,2 +1,2 @@
 # MyProjects
-Datascientits and AI
+Data Scientist and AI
